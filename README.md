@@ -6,6 +6,7 @@ Ambiente Laravel com Docker
 Este ambiente contem:
 
 Ubuntu 16.04
+PHP 7.1.x
 Composer
 Node 
 NPM
