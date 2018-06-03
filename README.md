@@ -65,7 +65,7 @@ Ex. de docker-compose.yml
             networks:
                 - internal
             ports:
-                - "2208:22"
+                - "22:22"
                 - "80:80"
             # If you use reverse-proxy (nginx) enable lines below
             environment:
